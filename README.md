@@ -1,4 +1,11 @@
 # CaféCol CloudApp
+Proyecto# 2
+Cloud Computing
+Presentado por:
+
+David Guillermo Naranjo Ochoa
+Sebastian Berrio
+Sebastian Amaya
 
 ## Descripción
 
