@@ -73,4 +73,5 @@ USD 25.08
 ## Autor
 
 Proyecto académico desarrollado para la asignatura de Cloud Computing.
+David Guillermo Naranjo;  Sebastian Berrio;   Sebastian Amaya.
 
